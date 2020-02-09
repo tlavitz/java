@@ -1,0 +1,25 @@
+Python Language
+Basic Operators
+Which is the correct operator for power(x^y)?
+X^y
+X**y
+X^^y
+None of the mentioned
+2
+In python, power operator is x**y i.e. 2**3=8.
+Variable Names
+Is Python case sensitive when dealing with identifiers?
+yes
+no
+sometimes only
+none of the mentioned
+1
+Case is always significant.
+Tuples
+Which of the following is a Python tuple?
+[1, 2, 3]
+(1, 2, 3)
+{1, 2, 3}
+{}
+2
+Tuples are characterised by their round brackets.
